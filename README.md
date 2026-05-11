@@ -102,7 +102,6 @@ A full gallery of the project UI and workflow screens captured from the app:
 ![Dual Tables](<screenshots/twotabes.png>)
 
 ![Charts App](<screenshots/chartsapp.png>)
-![Use Case Diagram](<screenshots/use case diag.png>)
 
 ---
 

@@ -74,35 +74,35 @@ MLOps Pipeline (MLflow, Docker, CI/CD)
 
 A full gallery of the project UI and workflow screens captured from the app:
 
-![Browse Jobs](<browse job user.png>)
-![Dashboard Overview](<dashboard job .png>)
-![Resume Builder](<resumebuilderui.png>)
-![Apply for Job](<apply for job and uplode resume.png>)
+![Browse Jobs](<screenshots/browse job user.png>)
+![Dashboard Overview](<screenshots/dashboard job .png>)
+![Resume Builder](<screenshots/resumebuilderui.png>)
+![Apply for Job](<screenshots/apply for job and uplode resume.png>)
 
-![Create Job](<create job .png>)
-![Edit Job](<edit job.png>)
-![New Job Posting](<new job.png>)
+![Create Job](<screenshots/create job .png>)
+![Edit Job](<screenshots/edit job.png>)
+![New Job Posting](<screenshots/new job.png>)
 
-![Login Screen](<login.png>)
-![Sign Up Screen](<signup.png>)
-![Password Reset](<forget pass not.png>)
-![Email Activation](<meetui.png>)
+![Login Screen](<screenshots/login.png>)
+![Sign Up Screen](<screenshots/signup.png>)
+![Password Reset](<screenshots/forget pass not.png>)
+![Email Activation](<screenshots/meetui.png>)
 
-![Job Export Calendar](<select date to export .png>)
-![Admin Feedback Dashboard](<feedback dashboard.png>)
-![HR Metrics Overview](<hr mertrics detalies.png>)
+![Job Export Calendar](<screenshots/select date to export .png>)
+![Admin Feedback Dashboard](<screenshots/feedback dashboard.png>)
+![HR Metrics Overview](<screenshots/hr mertrics detalies.png>)
 
-![Notification Candidate](<notifcandidate.png>)
-![ATS Resume Warning](<note for ats cv importence user.png>)
-![Application Tabs](<apptabs.png>)
+![Notification Candidate](<screenshots/notifcandidate.png>)
+![ATS Resume Warning](<screenshots/note for ats cv importence user.png>)
+![Application Tabs](<screenshots/apptabs.png>)
 
-![Comparison Chart](<compchart.png>)
-![Interview Tables](<tabesinterview.png>)
-![Evaluation Table](<tableeva.png>)
-![Dual Tables](<twotabes.png>)
+![Comparison Chart](<screenshots/compchart.png>)
+![Interview Tables](<screenshots/tabesinterview.png>)
+![Evaluation Table](<screenshots/tableeva.png>)
+![Dual Tables](<screenshots/twotabes.png>)
 
-![Charts App](<chartsapp.png>)
-![Use Case Diagram](<use case diag.png>)
+![Charts App](<screenshots/chartsapp.png>)
+![Use Case Diagram](<screenshots/use case diag.png>)
 
 ---
 
